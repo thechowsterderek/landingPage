@@ -56,6 +56,18 @@ body{
     padding-bottom: 6.25rem;
 }
 
+.leftHero button{
+    background-color: #3882f6;
+    color:#f9faf8;
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.25rem;
+    margin-top: 5px;
+    border:none;
+}
+
 .mainHero{
     color:#f9faf8;
     font-size: 48px;
